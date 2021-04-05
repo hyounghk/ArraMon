@@ -49,7 +49,7 @@ sh run_gpu_sim.sh SIM_NUM SIM_BATCH PORT
 \* Note: Currently, sim-gpu only supports SIM_NUM=1.<br>
 ### Pre-Recorded Image Features
 If you are using teacher-forcing training and want to reduce training time, please consider using pre-recorded image features.
-Please download the image features from [here](https://drive.google.com/file/d/1-Wchv0sK4B4L9Lcof1_34q64zIjNS2mC/view?usp=sharing) and the position data from [here](https://drive.google.com/file/d/1j7g4qNBIK-9bG6Q4nF2BPlJBu1C1K8ej/view?usp=sharing) and unzip in the root folder.
+Please download the image features from [here](https://drive.google.com/file/d/1-Wchv0sK4B4L9Lcof1_34q64zIjNS2mC/view?usp=sharing) and the position data from [here](https://drive.google.com/file/d/1cm6BeAuFqikdWyKUtTySmupqAV2aTJE5/view?usp=sharing) and unzip in the root folder.
 
 Use this command to run the model:
 ```
